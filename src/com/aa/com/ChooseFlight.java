@@ -16,6 +16,8 @@ import com.aa.Utility_Methods.Utility_MethodsOfAA;
 	/*
 	public void comparision() {
 	String s1="07:00";
+	
+	
 	String s2="10:55";
 	@FindBy(xpath="//span[@class='leftbound timeline-time timeline-time-departure ']")
 	WebElement sources;
